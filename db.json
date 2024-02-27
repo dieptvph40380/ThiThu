@@ -1,0 +1,28 @@
+{
+  "List": [
+    {
+      "id": "f53b",
+      "name": "Viet",
+      "gender": false,
+      "date": "",
+      "image": "https://loremflickr.com/640/480/city",
+      "trangthai": false
+    },
+    {
+      "id": "357a",
+      "name": "Haha",
+      "gender": true,
+      "date": "2022-10-10",
+      "image": "https://loremflickr.com/640/480/city",
+      "trangthai": false
+    },
+    {
+      "id": "b036",
+      "name": "aaa",
+      "gender": false,
+      "date": "1233-98-99",
+      "image": "https://vcdn1-dulich.vnecdn.net/2021/07/16/1-1626437591.jpg?w=460&h=0&q=100&dpr=2&fit=crop&s=i2M2IgCcw574LT-bXFY92g",
+      "trangthai": true
+    }
+  ]
+}
